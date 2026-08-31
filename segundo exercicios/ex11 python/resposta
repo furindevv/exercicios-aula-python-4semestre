@@ -1,0 +1,31 @@
+# Exercício 11
+
+# 1. Qual é a classe?
+# Produto
+
+# 2. Quantos objetos foram instanciados?
+# 3 objetos
+
+# 3. Qual variável contém uma lista?
+# produtos
+
+# 4. Qual variável contém um conjunto?
+# categorias
+
+# 5. Quais são os atributos?
+# nome, categoria e preco
+
+# 6. Qual é o método?
+# exibir()
+
+# 7. Onde ocorre a iteração?
+# for produto in produtos:
+
+# 8. Por que set faz sentido para categorias?
+# Porque não permite valores repetidos.
+
+# 9. O que self representa dentro de exibir()?
+# Representa o próprio objeto.
+
+# 10. O que __init__ está fazendo?
+# Inicializa os atributos do objeto.
